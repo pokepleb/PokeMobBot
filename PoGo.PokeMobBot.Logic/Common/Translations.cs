@@ -207,7 +207,7 @@ namespace PoGo.PokeMobBot.Logic.Common
             new KeyValuePair<TranslationString, string>(TranslationString.LogEntryUpdate, "UPDATE"),
             new KeyValuePair<TranslationString, string>(TranslationString.LoggingIn, "Logging in using {0}"),
             new KeyValuePair<TranslationString, string>(TranslationString.PtcOffline,
-                "PTC Servers are probably down OR your credentials are wrong. Try google"),
+                "PTC Servers are probably down OR your credentials are wrong (make sure they're not and wait)."),
             new KeyValuePair<TranslationString, string>(TranslationString.TryingAgainIn,
                 "Trying again in {0} seconds..."),
             new KeyValuePair<TranslationString, string>(TranslationString.AccountNotVerified,
